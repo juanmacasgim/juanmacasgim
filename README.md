@@ -70,4 +70,10 @@ I am a multi-platform software developer and currently web software development 
   <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api/top-langs?username=juanmacasgim&show_icons=true&theme=dark&locale=en&layout=compact" alt="juanmacasgim" />
   <img style="height: 195px;" src="https://github-readme-stats.vercel.app/api?username=juanmacasgim&show_icons=true&theme=dark&locale=en" alt="juanmacasgim" />
   <img style="height: 195px;" src="https://github-readme-streak-stats.herokuapp.com/?user=juanmacasgim&theme=dark" alt="juanmacasgim" />
+  <div align="center">
+  
+[![](https://visitcount.itsvg.in/api?id=juanmacasgim&icon=3&color=12)](https://visitcount.itsvg.in)
+  
+</div>
+
 </p>
