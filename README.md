@@ -2,8 +2,8 @@
 
 ## <img src="https://media2.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="70px">&nbsp;***About me***
 
-I am a multi-platform software developer and currently web software development student. I am expanding my knowledge in both front-end and back-end development, and I work as a software developer at a company providing IT solutions for businesses.
-- 🔭 I’m currently working on <a href="https://www.innovatesl.com">Innovate Mayorista Tecnológico S.L.</a>
+I am a multi-platform software developer and currently web software development student. I am improving my knowledge in both front-end and back-end development, and I work as a software developer at a company providing IT solutions for businesses.
+- 🔭 I’m currently working at <a href="https://www.innovatesl.com">Innovate Mayorista Tecnológico S.L.</a>
 - 🌱 I’m currently learning ...
   - Develop Plugins to Wordpress
 - Outside tech, I love 🎮 playing videogames, 🎵 listening to music, and 📖 reading fantasy books.
